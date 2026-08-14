@@ -1,0 +1,178 @@
+[
+  {
+    "id": "conceito-investimento",
+    "titulo": "Investimento",
+    "aliases": ["investimento", "investir", "aplicação financeira"],
+    "resumo": "Uso do dinheiro hoje com a expectativa de preservar valor ou obter retorno no futuro.",
+    "explicacao": "Investir é direcionar uma parte do dinheiro para um ativo financeiro com a expectativa de preservar o poder de compra, receber rendimentos ou aumentar o patrimônio ao longo do tempo.",
+    "como_funciona": "Você escolhe um investimento de acordo com seu objetivo, prazo, necessidade de resgate e tolerância a risco. O dinheiro pode financiar governos, bancos, empresas ou empreendimentos e, em troca, pode gerar rendimentos.",
+    "pontos_importantes": ["Todo investimento possui algum tipo de risco.", "Prazo, liquidez e risco devem combinar com o objetivo.", "Rentabilidade passada não garante resultados futuros."],
+    "riscos_cuidados": ["Não invista em algo que você não entende.", "Desconfie de promessa de lucro garantido ou muito acima do mercado.", "Antes de investir, organize dívidas caras e a reserva de emergência."],
+    "exemplo": "Guardar dinheiro para uma viagem em um produto de baixo risco e com resgate próximo da data planejada."
+  },
+  {
+    "id": "produto-cdb",
+    "titulo": "CDB",
+    "aliases": ["cdb", "certificado de depósito bancário", "certificado de deposito bancario"],
+    "resumo": "Título de renda fixa emitido por bancos para captar dinheiro.",
+    "explicacao": "CDB significa Certificado de Depósito Bancário. Ao investir em um CDB, você empresta dinheiro ao banco emissor e recebe uma remuneração conforme as condições contratadas.",
+    "como_funciona": "A remuneração pode ser prefixada, pós-fixada — muitas vezes ligada ao CDI — ou híbrida. Cada CDB possui vencimento, regra de resgate e valor mínimo próprios.",
+    "pontos_importantes": ["Alguns CDBs têm liquidez diária; outros só permitem resgate no vencimento.", "Há incidência de Imposto de Renda e pode haver IOF em resgates muito curtos.", "Pode ter cobertura do FGC dentro das regras e limites vigentes."],
+    "riscos_cuidados": ["Existe risco de crédito do banco emissor.", "Confirme liquidez, vencimento e tributação antes da aplicação.", "A cobertura do FGC não transforma o produto em risco zero."],
+    "exemplo": "Em um CDB pós-fixado, o rendimento acompanha um percentual do CDI definido no momento da aplicação."
+  },
+  {
+    "id": "produto-fii",
+    "titulo": "Fundos Imobiliários",
+    "aliases": ["fundos imobiliários", "fundos imobiliarios", "fundo imobiliário", "fundo imobiliario", "fii", "fiis"],
+    "resumo": "Fundos que investem em imóveis ou ativos ligados ao mercado imobiliário.",
+    "explicacao": "Fundos Imobiliários, ou FIIs, reúnem recursos de vários investidores para aplicar em imóveis, como galpões e escritórios, ou em títulos ligados ao setor imobiliário.",
+    "como_funciona": "O investidor compra cotas negociadas em bolsa. O valor das cotas oscila e o fundo pode distribuir rendimentos, conforme suas receitas, despesas e regras.",
+    "pontos_importantes": ["Existem fundos de imóveis, fundos de recebíveis e fundos com estratégias mistas.", "Rendimentos não são garantidos e podem variar.", "A compra e a venda de cotas ocorrem pelo preço de mercado."],
+    "riscos_cuidados": ["Vacância, inadimplência e queda no valor dos imóveis podem afetar resultados.", "As cotas podem perder valor.", "FIIs não possuem cobertura do FGC."],
+    "exemplo": "Um fundo de galpões pode receber aluguéis dos imóveis e distribuir parte do resultado aos cotistas."
+  },
+  {
+    "id": "conceito-renda-fixa",
+    "titulo": "Renda fixa",
+    "aliases": ["renda fixa", "investimentos de renda fixa"],
+    "resumo": "Investimentos com regras de remuneração definidas no momento da aplicação.",
+    "explicacao": "Renda fixa é a classe de investimentos em que a forma de cálculo do rendimento é conhecida desde a contratação, embora o valor final nem sempre seja conhecido antecipadamente.",
+    "como_funciona": "O investidor empresta dinheiro a um emissor. A remuneração pode ter taxa fixa, acompanhar um indicador como CDI ou Selic, ou combinar inflação com uma taxa.",
+    "pontos_importantes": ["Pode ser prefixada, pós-fixada ou híbrida.", "Inclui títulos públicos e títulos emitidos por instituições financeiras ou empresas.", "Renda fixa não significa rendimento fixo nem ausência de risco."],
+    "riscos_cuidados": ["Há riscos de crédito, mercado e liquidez.", "Vender antes do vencimento pode gerar perda em alguns títulos.", "Compare retorno líquido de impostos e custos."],
+    "exemplo": "CDB, Tesouro Direto, LCI e LCA são exemplos de renda fixa."
+  },
+  {
+    "id": "conceito-renda-variavel",
+    "titulo": "Renda variável",
+    "aliases": ["renda variável", "renda variavel"],
+    "resumo": "Investimentos cujo retorno não pode ser previsto no momento da aplicação.",
+    "explicacao": "Na renda variável, os preços e resultados oscilam conforme o mercado. O investidor pode obter ganhos, mas também pode perder parte ou todo o dinheiro investido.",
+    "como_funciona": "Os ativos são negociados a preços que mudam com expectativas, resultados, economia e oferta e procura. Ações, ETFs e fundos imobiliários são exemplos.",
+    "pontos_importantes": ["Costuma ser mais adequada a horizontes longos.", "Diversificação ajuda a reduzir concentração.", "Oscilações fazem parte dessa classe."],
+    "riscos_cuidados": ["Não use a reserva de emergência para suportar oscilações de renda variável.", "Retornos passados não garantem retornos futuros.", "Evite decisões motivadas apenas por euforia ou medo."],
+    "exemplo": "Uma ação comprada por R$ 20 pode passar a valer R$ 25 ou R$ 15 conforme o mercado."
+  },
+  {
+    "id": "produto-tesouro-direto",
+    "titulo": "Tesouro Direto",
+    "aliases": ["tesouro direto", "tesouro selic", "tesouro ipca", "título público", "titulo publico"],
+    "resumo": "Programa para pessoas físicas comprarem títulos públicos federais.",
+    "explicacao": "O Tesouro Direto permite investir em títulos emitidos pelo governo federal. Na prática, o investidor empresta dinheiro ao governo e recebe a remuneração prevista pelo título.",
+    "como_funciona": "Há títulos ligados à Selic, títulos prefixados e títulos ligados à inflação. Cada um possui vencimento e comportamento diferente antes dessa data.",
+    "pontos_importantes": ["Tesouro Selic, Prefixado e IPCA+ atendem a finalidades diferentes.", "Títulos podem oscilar por marcação a mercado.", "Imposto de Renda e eventuais custos afetam o retorno líquido."],
+    "riscos_cuidados": ["Venda antecipada ocorre pelo preço de mercado e pode causar perda.", "Escolha o vencimento de acordo com o objetivo.", "Títulos públicos não têm cobertura do FGC."],
+    "exemplo": "O Tesouro IPCA+ busca oferecer a variação da inflação mais uma taxa contratada quando mantido até o vencimento."
+  },
+  {
+    "id": "produto-acoes",
+    "titulo": "Ações",
+    "aliases": ["ações", "acoes", "ação", "acao"],
+    "resumo": "Pequenas partes do capital de uma empresa.",
+    "explicacao": "Ao comprar uma ação, o investidor se torna sócio de uma empresa na proporção de sua participação e passa a acompanhar os riscos e resultados do negócio.",
+    "como_funciona": "As ações são negociadas em bolsa. O retorno pode vir da valorização das ações e de distribuições feitas pela empresa, mas nenhum dos dois é garantido.",
+    "pontos_importantes": ["O preço muda diariamente.", "Analise empresa, setor, governança e riscos.", "Horizonte longo não elimina a possibilidade de perda."],
+    "riscos_cuidados": ["Resultados ruins ou mudanças econômicas podem derrubar o preço.", "Concentrar tudo em uma empresa aumenta o risco.", "Ações não possuem cobertura do FGC."],
+    "exemplo": "Se uma empresa possui um milhão de ações, cada ação representa uma pequena fração de seu capital."
+  },
+  {
+    "id": "produto-fundos-investimento",
+    "titulo": "Fundos de investimento",
+    "aliases": ["fundos de investimento", "fundo de investimento", "fundos"],
+    "resumo": "Condomínios que reúnem recursos de investidores sob uma estratégia comum.",
+    "explicacao": "Um fundo de investimento reúne o dinheiro de vários cotistas. Um gestor aplica os recursos conforme a política definida no regulamento do fundo.",
+    "como_funciona": "O investidor compra cotas. O valor da cota varia de acordo com os ativos da carteira, descontadas despesas e taxas.",
+    "pontos_importantes": ["Existem fundos de renda fixa, multimercado, ações e outras classes.", "Leia regulamento, lâmina e política de investimento.", "Taxas reduzem o retorno líquido."],
+    "riscos_cuidados": ["O risco depende dos ativos e da estratégia.", "Prazos de cotização e pagamento do resgate podem ser diferentes.", "Fundos de investimento não possuem cobertura do FGC."],
+    "exemplo": "Em um fundo de ações, o gestor escolhe ações para compor a carteira conforme a estratégia divulgada."
+  },
+  {
+    "id": "produto-etf",
+    "titulo": "ETF",
+    "aliases": ["etf", "etfs", "fundo de índice", "fundo de indice"],
+    "resumo": "Fundo negociado em bolsa que geralmente busca acompanhar um índice.",
+    "explicacao": "ETF é um fundo cujas cotas são compradas e vendidas em bolsa. Muitos ETFs procuram acompanhar o desempenho de um índice de mercado.",
+    "como_funciona": "Ao comprar uma cota, o investidor acessa uma cesta de ativos definida pela estratégia do fundo, sem precisar comprar cada ativo separadamente.",
+    "pontos_importantes": ["Pode facilitar a diversificação.", "Há ETFs de ações, renda fixa e mercados internacionais.", "O preço da cota oscila durante o pregão."],
+    "riscos_cuidados": ["O ETF acompanha também as quedas do mercado representado.", "Pode haver risco cambial em exposições internacionais.", "ETFs não possuem cobertura do FGC."],
+    "exemplo": "Um ETF de índice de ações permite exposição a várias empresas por meio de uma única cota."
+  },
+  {
+    "id": "produto-lci-lca",
+    "titulo": "LCI e LCA",
+    "aliases": ["lci", "lca", "letra de crédito imobiliário", "letra de credito imobiliario", "letra de crédito do agronegócio", "letra de credito do agronegocio"],
+    "resumo": "Títulos bancários ligados ao financiamento imobiliário ou do agronegócio.",
+    "explicacao": "LCI e LCA são títulos de renda fixa emitidos por instituições financeiras. Os recursos são direcionados, respectivamente, aos setores imobiliário e do agronegócio.",
+    "como_funciona": "O investidor empresta dinheiro à instituição por um prazo e recebe remuneração prefixada, pós-fixada ou híbrida, conforme a contratação.",
+    "pontos_importantes": ["Para pessoa física, podem ter isenção de Imposto de Renda conforme as regras vigentes.", "Frequentemente possuem carência ou resgate apenas no vencimento.", "Podem ser elegíveis à cobertura do FGC dentro das regras vigentes."],
+    "riscos_cuidados": ["Existe risco de crédito do emissor.", "A falta de liquidez pode impedir o uso do dinheiro antes do prazo.", "Compare o retorno líquido com alternativas tributadas."],
+    "exemplo": "Uma LCI com vencimento em um ano pode exigir que o dinheiro permaneça aplicado até essa data."
+  },
+  {
+    "id": "conceito-diversificacao",
+    "titulo": "Diversificação",
+    "aliases": ["diversificação", "diversificacao", "diversificar", "diversificado"],
+    "resumo": "Distribuição dos investimentos para reduzir concentração.",
+    "explicacao": "Diversificar é distribuir o dinheiro entre diferentes ativos, emissores, setores, prazos ou classes para reduzir a dependência de um único investimento.",
+    "como_funciona": "Como ativos diferentes podem reagir de maneiras distintas ao mesmo evento, uma carteira diversificada tende a sofrer menos com um problema isolado.",
+    "pontos_importantes": ["Diversificação deve respeitar objetivo e perfil.", "Ter muitos ativos parecidos pode não representar diversificação real.", "Custos e complexidade também devem ser considerados."],
+    "riscos_cuidados": ["Diversificar reduz alguns riscos, mas não elimina perdas.", "Não compre produtos apenas para aumentar a quantidade da carteira.", "Revise a distribuição periodicamente."],
+    "exemplo": "Em vez de concentrar toda a renda fixa em um banco, distribuir entre emissores e vencimentos diferentes."
+  },
+  {
+    "id": "conceito-liquidez",
+    "titulo": "Liquidez",
+    "aliases": ["liquidez", "resgate", "d+0", "d+1", "d+30"],
+    "resumo": "Facilidade e prazo para transformar um investimento em dinheiro disponível.",
+    "explicacao": "Liquidez indica quão fácil e rápido é resgatar ou vender um investimento e ter o dinheiro disponível para uso.",
+    "como_funciona": "Prazos como D+0 e D+1 indicam, respectivamente, disponibilidade no mesmo dia ou no próximo dia útil, conforme horários e regras do produto.",
+    "pontos_importantes": ["Liquidez não é o mesmo que segurança.", "A reserva de emergência costuma exigir alta liquidez.", "Alguns produtos não permitem resgate antes do vencimento."],
+    "riscos_cuidados": ["Pode ser necessário vender por um preço ruim para obter dinheiro rapidamente.", "Confira prazo de cotização e prazo de pagamento.", "Finais de semana e feriados podem alterar a disponibilidade."],
+    "exemplo": "Um investimento D+1 solicitado hoje normalmente disponibiliza o dinheiro no próximo dia útil."
+  },
+  {
+    "id": "conceito-risco",
+    "titulo": "Risco de investimento",
+    "aliases": ["risco", "riscos", "risco de investimento", "investimento seguro"],
+    "resumo": "Possibilidade de o resultado ser diferente do esperado, inclusive com perdas.",
+    "explicacao": "Risco é a possibilidade de um investimento não entregar o resultado esperado. Pode envolver perda de valor, falta de pagamento ou dificuldade de resgate.",
+    "como_funciona": "Cada produto combina riscos diferentes, como risco de crédito, de mercado e de liquidez. Em geral, buscar retorno maior exige aceitar incertezas maiores.",
+    "pontos_importantes": ["Não existe investimento totalmente sem risco.", "O risco adequado depende do objetivo e do prazo.", "Entender o emissor e o produto é essencial."],
+    "riscos_cuidados": ["Promessa de alto retorno sem risco é sinal de alerta.", "Não confunda cobertura do FGC com garantia de rentabilidade.", "Diversificação não elimina todos os riscos."],
+    "exemplo": "Um banco pode não pagar um título, uma ação pode cair e um imóvel pode demorar para ser vendido."
+  },
+  {
+    "id": "conceito-reserva-emergencia",
+    "titulo": "Reserva de emergência",
+    "aliases": ["reserva de emergência", "reserva de emergencia", "reserva financeira"],
+    "resumo": "Dinheiro separado para imprevistos e perda temporária de renda.",
+    "explicacao": "A reserva de emergência é um valor guardado para despesas inesperadas, como problemas de saúde, reparos urgentes ou perda de renda.",
+    "como_funciona": "Ela é construída gradualmente e mantida em investimentos de baixo risco e alta liquidez, para estar disponível quando necessário.",
+    "pontos_importantes": ["O tamanho depende das despesas e da estabilidade da renda.", "Segurança e liquidez são mais importantes que buscar o maior retorno.", "Depois de usar a reserva, planeje sua recomposição."],
+    "riscos_cuidados": ["Não mantenha a reserva em ativos de alta volatilidade.", "Evite produtos com carência incompatível.", "Separe emergências reais de gastos previsíveis."],
+    "exemplo": "Uma pessoa pode formar a reserva com aportes mensais até acumular vários meses de despesas essenciais."
+  },
+  {
+    "id": "conceito-juros-compostos",
+    "titulo": "Juros compostos",
+    "aliases": ["juros compostos", "juros sobre juros"],
+    "resumo": "Rendimentos calculados sobre o capital e sobre rendimentos acumulados.",
+    "explicacao": "Nos juros compostos, cada novo rendimento é calculado sobre o valor inicial somado aos rendimentos anteriores. É o chamado efeito de juros sobre juros.",
+    "como_funciona": "Quando os rendimentos permanecem investidos, a base usada para calcular os próximos rendimentos aumenta ao longo do tempo.",
+    "pontos_importantes": ["Tempo e regularidade fortalecem o efeito da composição.", "Taxas aparentemente pequenas geram diferenças maiores em prazos longos.", "Custos, impostos e inflação reduzem o ganho efetivo."],
+    "riscos_cuidados": ["Uma simulação não é promessa de retorno.", "Taxas podem variar em investimentos pós-fixados.", "Juros compostos também atuam contra o consumidor em dívidas."],
+    "exemplo": "Se R$ 100 rendem 10%, passam a R$ 110. Com mais 10%, o valor vai a R$ 121, pois o segundo rendimento incide sobre R$ 110."
+  },
+  {
+    "id": "comparacao-renda-fixa-variavel",
+    "titulo": "Diferença entre renda fixa e renda variável",
+    "aliases": ["diferença entre renda fixa e renda variável", "diferenca entre renda fixa e renda variavel", "renda fixa ou renda variável", "renda fixa ou renda variavel"],
+    "resumo": "Comparação entre investimentos com regra de remuneração conhecida e investimentos sujeitos à oscilação de mercado.",
+    "explicacao": "Na renda fixa, a regra usada para calcular o rendimento é definida na contratação. Na renda variável, o retorno não é previsível e o preço pode subir ou cair conforme o mercado.",
+    "como_funciona": "CDBs e títulos públicos são exemplos de renda fixa. Ações, ETFs de ações e fundos imobiliários são exemplos de renda variável. As duas classes podem fazer parte de uma carteira, dependendo dos objetivos, prazos e riscos aceitos.",
+    "pontos_importantes": ["Renda fixa também possui riscos e pode oscilar.", "Renda variável pode gerar perdas e costuma exigir horizonte maior.", "A escolha não precisa ser exclusiva; a combinação depende do planejamento."],
+    "riscos_cuidados": ["Não escolha apenas pela rentabilidade recente.", "Não use dinheiro de curto prazo em ativos incompatíveis com a data do objetivo.", "Entenda liquidez, custos e tributação de cada produto."],
+    "exemplo": "Uma pessoa pode manter a reserva em renda fixa de alta liquidez e usar apenas recursos de longo prazo em renda variável."
+  }
+]
