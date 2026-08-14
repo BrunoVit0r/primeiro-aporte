@@ -10,8 +10,6 @@ O projeto funciona integralmente com uma base local: não utiliza OpenAI, APIs e
 
 ### [▶️ Assistir ao pitch do Primeiro Aporte](https://github.com/BrunoVit0r/primeiro-aporte/raw/refs/heads/main/assets/pitch-primeiro-aporte.mp4)
 
-[⬇️ Baixar o vídeo em MP4](https://raw.githubusercontent.com/BrunoVit0r/primeiro-aporte/main/assets/pitch-primeiro-aporte.mp4)
-
 O vídeo apresenta o problema, a proposta de valor, a experiência do usuário e os diferenciais do projeto. Os links utilizam a versão `raw` porque o GitHub não gera preview na página de arquivos grandes.
 
 ## O problema
